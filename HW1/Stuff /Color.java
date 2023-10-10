@@ -1,4 +1,4 @@
-package homework.Stuff;
+package HW1.Stuff;
 
 public class Color {
 
