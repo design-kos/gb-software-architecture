@@ -2,7 +2,7 @@
 
 Robot service 3.0
 - API version: 1.0.11
-  - Build date: 2023-08-30T08:22:49.388542894Z[GMT]
+  - Build date: 2023-11-14T08:22:49.388542894Z[GMT]
 
 API сервис управления роботом - пылесосм.
 
